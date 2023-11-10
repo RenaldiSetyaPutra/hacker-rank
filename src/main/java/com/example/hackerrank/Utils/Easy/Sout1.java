@@ -1,8 +1,8 @@
-package com.example.hackerrank.Utils;
+package com.example.hackerrank.Utils.Easy;
 
 import java.util.Scanner;
 
-public class Sout {
+public class Sout1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();

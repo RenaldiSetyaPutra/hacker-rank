@@ -1,4 +1,4 @@
-package com.example.hackerrank.Utils;
+package com.example.hackerrank.Utils.Easy;
 
 import org.springframework.format.annotation.DateTimeFormat;
 

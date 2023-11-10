@@ -1,4 +1,4 @@
-package com.example.hackerrank.Utils;
+package com.example.hackerrank.Utils.Easy;
 
 import java.text.NumberFormat;
 import java.util.Locale;

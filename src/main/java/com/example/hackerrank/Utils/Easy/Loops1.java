@@ -1,10 +1,10 @@
-package com.example.hackerrank.Utils;
+package com.example.hackerrank.Utils.Easy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class JavaLoops1 {
+public class Loops1 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         int value = Integer.parseInt(bufferedReader.readLine().trim());
